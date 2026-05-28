@@ -13,3 +13,6 @@ venv/
 
 # Streamlit
 .streamlit/secrets.toml
+
+#LATEX
+manual/
